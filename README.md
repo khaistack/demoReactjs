@@ -1,7 +1,7 @@
-1.npm install axios 
-2.npm install -g json-server
-3.npm install react-router-dom --save
-4.npm start
+1.npm install axios </br>
+2.npm install -g json-server </br>
+3.npm install react-router-dom --save </br>
+4.npm start </br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
